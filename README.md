@@ -131,7 +131,7 @@
 ### UI/UX Polish
 * Implement final HUD.
 * Ensure inventory icon clarity.
-* Add clear pickup prompts.
+* Add clear pickup prompts..
 
 </details>
 
