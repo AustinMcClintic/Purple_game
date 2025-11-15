@@ -8,7 +8,7 @@
 | Rayna | Artist |
 | Austin | Level Design |
 | Giancarlo | Floater (Leader) |
-| Josh | UI/UX |
+| Joshua | UI/UX |
 
 **Note:** All members will be helping often in other areas to learn them/get them done at appropriate pacing.
 
